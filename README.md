@@ -44,7 +44,11 @@ const Franco = {
 
 </p>
 
-- <p align="left">In coming...  </br> <img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" width=50px height=50px align="center"></p>
+<p align="center">
+  
+<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="center">
+  
+</p>
 
 
 # <h3 align="center"><a href="https://portfolio-woad-alpha.vercel.app/" target="_BLANK">Para más información sobre mis proyectos, puedes acceder a mi sitio personal</a></h3>
@@ -60,7 +64,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 17/05/2021</h5>
+<h5 align="left">Última modificación: 16/07/2021</h5>
 
 
 
