@@ -47,6 +47,7 @@ const Franco = {
 <p align="center">
   
 <img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="center">
+<img src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" align="center" width=120px height=120px align="center">  
   
 </p>
 
@@ -64,7 +65,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 16/07/2021</h5>
+<h5 align="left">Última modificación: 15/01/2022</h5>
 
 
 
