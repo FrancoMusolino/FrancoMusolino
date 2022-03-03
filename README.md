@@ -48,6 +48,13 @@ const Franco = {
   
 <img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="center">
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" align="center" width=120px height=120px align="center">  
+<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" align="center" width=120px height=120px align="center">  
+  
+</p>
+
+<p align="center">
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" align="center" width=120px height=120px align="center">
   
 </p>
 
@@ -65,7 +72,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 15/01/2022</h5>
+<h5 align="left">Última modificación: 02/03/2022</h5>
 
 
 
