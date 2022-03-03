@@ -44,13 +44,13 @@ const Franco = {
 
 </p>
 
-<p align="center">
+<div width="80%" align="center">
   
-<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="center">&nbsp
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" align="center" width=120px height=120px align="center"> &nbsp 
-<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" align="center" width=120px height=120px align="center">  &nbsp
+<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="left">
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" width=120px height=120px align="center"> 
+<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" width=120px height=120px align="rigth">  
   
-</p>
+</div>
 
 <p align="center">
   
