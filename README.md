@@ -28,9 +28,9 @@ const Franco = {
 
 <p align="center">
 
-<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png"  align="center" width=120px height=120px>
-<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"  align="center" width=120px height=120px>
-<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px align="center">
+<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
+<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
+<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px HSPACE="10" VSPACE="10">
 
 </p>
 
@@ -38,26 +38,31 @@ const Franco = {
 
 <p align="center">
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png"  align="center" width=120px height=120px>
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"  align="center" width=120px height=120px>
-<img src="https://midu.dev/images/tags/github.png"  align="center" width=120px height=120px>
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" HSPACE="10" VSPACE="10" width=120px height=120px>
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" HSPACE="10" VSPACE="10" width=150px height=120px>
+<img src="https://midu.dev/images/tags/github.png" HSPACE="10" VSPACE="10" width=120px height=120px>
 
 </p>
 
-<div width="80%" align="center">
+</br>
+
+<p width="80%" align="center">
   
-<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" align="center" width=120px height=120px align="left">
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" width=120px height=120px align="center"> 
-<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" width=120px height=120px align="rigth">  
+<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" HSPACE="10" VSPACE="10" width=120px height=120px>
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" HSPACE="10" VSPACE="10" width=120px height=120px> 
+<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" HSPACE="10" VSPACE="10" width=120px height=120px>  
   
-</div>
+</p>
+
+</br>
 
 <p align="center">
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" align="center" width=120px height=120px align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" HSPACE="10" VSPACE="10" width=120px height=120px>
   
 </p>
 
+</br>
 
 # <h3 align="center"><a href="https://portfolio-woad-alpha.vercel.app/" target="_BLANK">Para más información sobre mis proyectos, puedes acceder a mi sitio personal</a></h3>
 
