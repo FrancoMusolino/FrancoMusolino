@@ -28,7 +28,7 @@ const Franco = {
 
 <p align="center">
 
-<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
 <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
 <img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px HSPACE="10" VSPACE="10">
 
