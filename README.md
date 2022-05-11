@@ -12,7 +12,7 @@ const Franco = {
   Nacionalidad: 'Argentino',
   Hobbies: ['Fútbol', 'Programar', 'Tenis', 'Videojuegos'],
   Clubes: ['River', 'Barcelona', 'Velez'],
-  Juegos: ['Fifa', 'Cod', 'Rocket League', 'Assassin's Creed'],
+  Juegos: ['Fifa', 'Cod', 'Battlefront II', 'Assassin's Creed'],
   Comidas: ['Asado', 'Pasta', 'Empanadas'],
   Frase: 'La ignorancia solo es divertida para el ignorante'
 }
