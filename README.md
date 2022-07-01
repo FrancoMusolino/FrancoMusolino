@@ -28,9 +28,9 @@ const Franco = {
 
 <p align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
-<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" HSPACE="10" VSPACE="10"  width=120px height=120px>
-<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px HSPACE="10" VSPACE="10">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" HSPACE="10" VSPACE="10"  width=120px height=120px title="HTML">
+<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" HSPACE="10" VSPACE="10"  width=120px height=120px title="CSS">
+<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px HSPACE="10" VSPACE="10" title="JavaScript">
 
 </p>
 
@@ -38,9 +38,9 @@ const Franco = {
 
 <p align="center">
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" HSPACE="10" VSPACE="10" width=120px height=120px>
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" HSPACE="10" VSPACE="10" width=150px height=120px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" HSPACE="10" VSPACE="10" width=120px height=120px>
+<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Bootstrap">
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" HSPACE="10" VSPACE="10" width=150px height=120px title="Tailwind">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" HSPACE="10" VSPACE="10" width=120px height=120px title="SASS">
 
 
 </p>
@@ -49,9 +49,9 @@ const Franco = {
 
 <p width="80%" align="center">
   
-<img src="https://midu.dev/images/tags/github.png" HSPACE="10" VSPACE="10" width=120px height=120px>  
-<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" HSPACE="10" VSPACE="10" width=120px height=120px>
-<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" HSPACE="10" VSPACE="10" width=120px height=120px>  
+<img src="https://midu.dev/images/tags/github.png" HSPACE="10" VSPACE="10" width=120px height=120px title="GitHub">  
+<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" HSPACE="10" VSPACE="10" width=120px height=120px title="React">
+<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" HSPACE="10" VSPACE="10" width=120px height=120px title="StyledComponents">  
   
 </p>
 
@@ -59,16 +59,25 @@ const Franco = {
 
 <p align="center">  
 
-<img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" HSPACE="10" VSPACE="10" width=135px height=100px>
-<img src="https://img.icons8.com/color/452/redux.png" HSPACE="10" VSPACE="10" width=120px height=120px>
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1651677414/Read.me/emblem-light-628080660fddb35787ff6c77e97ca43e_uoh8b0.svg" HSPACE="10" VSPACE="10" width=120px height=120px>
+<img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" HSPACE="10" VSPACE="10" width=135px height=100px title="React Router">
+<img src="https://img.icons8.com/color/452/redux.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Redux">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1651677414/Read.me/emblem-light-628080660fddb35787ff6c77e97ca43e_uoh8b0.svg" HSPACE="10" VSPACE="10" width=120px height=120px title="React Query">
+</p>
+
+</br>
+
+<p align="center">  
+
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641872/Read.me/materilUi_kflvwk.png" HSPACE="10" VSPACE="10" width=135px height=100px title="Material UI">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641725/Read.me/chakra-ui_rpdf8n.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Chakra UI">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641695/Read.me/reactformik_w1zjxo.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Formik">
 </p>
 
 </br>
 
 <p align="center">
-  
- <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" HSPACE="10" VSPACE="10" width=120px height=120px> 
+  <img src="https://res.cloudinary.com/francomuso/image/upload/v1656641892/Read.me/axios_brzxdx.png" HSPACE="10" VSPACE="10" width=120px height=120px title="AXIOS"> 
+ <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" HSPACE="10" VSPACE="10" width=120px height=120px title="NextJS"> 
 </p>
 
 </br>
@@ -86,7 +95,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 04/05/2022</h5>
+<h5 align="left">Última modificación: 30/06/2022</h5>
 
 
 
