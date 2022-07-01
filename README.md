@@ -59,18 +59,18 @@ const Franco = {
 
 <p align="center">  
 
-<img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" HSPACE="10" VSPACE="10" width=135px height=100px title="React Router">
-<img src="https://img.icons8.com/color/452/redux.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Redux">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1651677414/Read.me/emblem-light-628080660fddb35787ff6c77e97ca43e_uoh8b0.svg" HSPACE="10" VSPACE="10" width=120px height=120px title="React Query">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641872/Read.me/materilUi_kflvwk.png" HSPACE="10" VSPACE="10" width=135px height=100px title="Material UI">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641725/Read.me/chakra-ui_rpdf8n.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Chakra UI">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641695/Read.me/reactformik_w1zjxo.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Formik">
 </p>
 
 </br>
 
 <p align="center">  
 
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641872/Read.me/materilUi_kflvwk.png" HSPACE="10" VSPACE="10" width=135px height=100px title="Material UI">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641725/Read.me/chakra-ui_rpdf8n.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Chakra UI">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641695/Read.me/reactformik_w1zjxo.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Formik">
+<img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" HSPACE="10" VSPACE="10" width=135px height=100px title="React Router">
+<img src="https://img.icons8.com/color/452/redux.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Redux">
+<img src="https://res.cloudinary.com/francomuso/image/upload/v1651677414/Read.me/emblem-light-628080660fddb35787ff6c77e97ca43e_uoh8b0.svg" HSPACE="10" VSPACE="10" width=120px height=120px title="React Query">
 </p>
 
 </br>
