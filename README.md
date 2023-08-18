@@ -22,63 +22,47 @@ const Franco = {
 
 <hr>
 
-# <p align="center">My skills 💻 </p>
-
-</br>
-
-<p align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" HSPACE="10" VSPACE="10"  width=120px height=120px title="HTML">
-<img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" HSPACE="10" VSPACE="10"  width=120px height=120px title="CSS">
-<img src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-icono-del-lenguaje-de-programaci-oacute-n-javascript-by-vexels.png" width=120px height=120px HSPACE="10" VSPACE="10" title="JavaScript">
-
-</p>
-
-</br>
-
-<p align="center">
-
-<img src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Bootstrap">
-<img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" HSPACE="10" VSPACE="10" width=150px height=120px title="Tailwind">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/245px-Sass_Logo_Color.svg.png" HSPACE="10" VSPACE="10" width=120px height=120px title="SASS">
-
-
-</p>
-
-</br>
-
-<p width="80%" align="center">
-  
-<img src="https://midu.dev/images/tags/github.png" HSPACE="10" VSPACE="10" width=120px height=120px title="GitHub">  
-<img src="https://4.bp.blogspot.com/-_YSVTe2ekBU/XKMntJDH0ZI/AAAAAAAAXNk/3d48i_XShWwvoMNj0YJWp2J4_Woh9dzGgCLcBGAs/s1600/reactjs%2Btutorial.png" HSPACE="10" VSPACE="10" width=120px height=120px title="React">
-<img src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png" HSPACE="10" VSPACE="10" width=120px height=120px title="StyledComponents">  
-  
-</p>
-
-</br>
-
-<p align="center">  
-
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641872/Read.me/materilUi_kflvwk.png" HSPACE="10" VSPACE="10" width=135px height=100px title="Material UI">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641725/Read.me/chakra-ui_rpdf8n.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Chakra UI">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1656641695/Read.me/reactformik_w1zjxo.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Formik">
-</p>
-
-</br>
-
-<p align="center">  
-
-<img src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" HSPACE="10" VSPACE="10" width=135px height=100px title="React Router">
-<img src="https://img.icons8.com/color/452/redux.png" HSPACE="10" VSPACE="10" width=120px height=120px title="Redux">
-<img src="https://res.cloudinary.com/francomuso/image/upload/v1651677414/Read.me/emblem-light-628080660fddb35787ff6c77e97ca43e_uoh8b0.svg" HSPACE="10" VSPACE="10" width=120px height=120px title="React Query">
-</p>
-
-</br>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/francomuso/image/upload/v1656641892/Read.me/axios_brzxdx.png" HSPACE="10" VSPACE="10" width=120px height=120px title="AXIOS"> 
- <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" HSPACE="10" VSPACE="10" width=120px height=120px title="NextJS"> 
-</p>
+# <p align="center">My skills 💻</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23F74B00.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%239D80EF.svg?style=for-the-badge&logo=axios&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%237849BD.svg?style=for-the-badge&logo=redux&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/react_query-%23002C4B.svg?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![ReactTestingLibrary](https://img.shields.io/badge/react_testing_library-%23242526.svg?style=for-the-badge&logo=testinglibrary&logoColor=9E0707)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/chakra-%234FD1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![FramerMotion](https://img.shields.io/badge/framer_motion-%231A1A1A.svg?style=for-the-badge&logo=framer&logoColor=E731BE)
+![ReactNative](https://img.shields.io/badge/react_native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-%23151718.svg?style=for-the-badge&logo=expo&logoColor=ECEDEE)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Remix](https://img.shields.io/badge/remix-%23121212.svg?style=for-the-badge&logo=remix&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23353535.svg?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%234c51bf.svg?style=for-the-badge&logo=prisma&logoColor=FDFDFD)
+![Socket.io](https://img.shields.io/badge/socket.io-%23242526.svg?style=for-the-badge&logo=socket.io&logoColor=25C2A0)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Novu](https://img.shields.io/badge/novu-%23010101.svg?style=for-the-badge&logo=novu&logoColor=C80079) 
+![Hasura](https://img.shields.io/badge/hasura-%232DB57C.svg?style=for-the-badge&logo=hasura&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%232684FF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%235551ff.svg?style=for-the-badge&logo=figma&logoColor=FDFDFD)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F54D27.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23010409.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHubActions](https://img.shields.io/badge/github_actions-%23010409.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF) 
+![NPM](https://img.shields.io/badge/NPM-%23C80000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![PNPM](https://img.shields.io/badge/pnpm-%234E4E4E.svg?style=for-the-badge&logo=pnpm&logoColor=F9AD00) 
 
 </br>
 
