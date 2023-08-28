@@ -43,6 +43,7 @@ const Franco = {
 ![ReactTestingLibrary](https://img.shields.io/badge/react_testing_library-%23242526.svg?style=for-the-badge&logo=testinglibrary&logoColor=9E0707)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ChakraUI](https://img.shields.io/badge/chakra-%234FD1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-%23ff4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 ![FramerMotion](https://img.shields.io/badge/framer_motion-%231A1A1A.svg?style=for-the-badge&logo=framer&logoColor=E731BE)
 ![ReactNative](https://img.shields.io/badge/react_native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/expo-%23151718.svg?style=for-the-badge&logo=expo&logoColor=ECEDEE)
