@@ -1,9 +1,4 @@
-<h1><p align="center">¡Hola &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Rotating_earth_%28large%29_transparent.gif" alt="GIF" width=45px height=45px>  &nbsp;, soy <a href="https://github.com/FrancoMusolino"> Franco Musolino</a>! 👋</p></h1>
-
-# <p align="center"><img src="https://i.pinimg.com/originals/52/e2/db/52e2dbef7685a6e14544240a4172db15.gif" alt="GIF" width=600px height=230px></p>
-
-# <p align="center">👨‍💻 Desarrollador Web 👨‍💻</p> 
-
+# <p align="center" style="font-size: 45;">¡Hola 🌎, soy <a href="https://github.com/FrancoMusolino">Franco Musolino</a>! </p>
 
 <h3 align="center">Sobre mí:</h3>
 
@@ -56,8 +51,10 @@ const Franco = {
 ![Socket.io](https://img.shields.io/badge/socket.io-%23242526.svg?style=for-the-badge&logo=socket.io&logoColor=25C2A0)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![Novu](https://img.shields.io/badge/novu-%23010101.svg?style=for-the-badge&logo=novu&logoColor=C80079) 
+![Strapi](https://img.shields.io/badge/strapi-%23121180.svg?style=for-the-badge&logo=strapi&logoColor=4945ff) 
 ![Hasura](https://img.shields.io/badge/hasura-%232DB57C.svg?style=for-the-badge&logo=hasura&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%230482c6.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,7 +83,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 17/08/2023</h5>
+<h5 align="left">Última modificación: 31/10/2023</h5>
 
 
 
