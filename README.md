@@ -4,12 +4,16 @@
 
 ``` javascript
 const Franco = {
-  Nacionalidad: 'Argentino',
-  Hobbies: ['Fútbol', 'Programar', 'Tenis', 'Videojuegos'],
-  Clubes: ['River', 'Barcelona', 'Velez'],
-  Juegos: ['Fifa', 'Cod', 'Battlefront II', 'Assassin's Creed'],
-  Comidas: ['Asado', 'Pasta', 'Empanadas'],
-  Frase: 'La ignorancia solo es divertida para el ignorante'
+  nationality: 'Argentino',
+  hobbies: ['Fútbol', 'Programar', 'Películas'],
+  code: {
+    languages: ['JavaScript', 'TypeScript', 'Rust'],
+    frontend: ['React', 'NextJS', 'Remix', 'Astro', 'React Native'],
+    backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs'],
+    databases: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'DynamoDB'],
+    architcetures: ['Modular Monolithic', 'Microservices', 'Event Driven', 'Serverless'],
+    techniques: ['Testing', 'CI/CD', 'Web Security', 'Version Control', 'Mobile Apps (Cross-Platform)', 'PWA']
+  }
 }
 
 ```
@@ -26,6 +30,7 @@ const Franco = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23272729.svg?style=for-the-badge&logo=jest&logoColor=9a435c)
 ![Prettier](https://img.shields.io/badge/prettier-%231a2b34.svg?style=for-the-badge&logo=prettier&logoColor=ea5e5e)
 ![ESLint](https://img.shields.io/badge/eslint-%234b32c3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![PWA](https://img.shields.io/badge/pwa-%235a06c9.svg?style=for-the-badge&logo=pwa&logoColor=white)
@@ -45,8 +50,10 @@ const Franco = {
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Remix](https://img.shields.io/badge/remix-%23121212.svg?style=for-the-badge&logo=remix&logoColor=white) 
+![Astro](https://img.shields.io/badge/astro-%230d0f14.svg?style=for-the-badge&logo=astro&logoColor=ffffff) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23353535.svg?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%231b1b1b.svg?style=for-the-badge&logo=graphql&logoColor=f6009c)
 ![Prisma](https://img.shields.io/badge/prisma-%234c51bf.svg?style=for-the-badge&logo=prisma&logoColor=FDFDFD)
 ![Socket.io](https://img.shields.io/badge/socket.io-%23242526.svg?style=for-the-badge&logo=socket.io&logoColor=25C2A0)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
@@ -83,7 +90,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 11/04/2024</h5>
+<h5 align="left">Última modificación: 27/05/2024</h5>
 
 
 
