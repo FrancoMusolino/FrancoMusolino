@@ -12,7 +12,7 @@ const Franco = {
     backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs'],
     databases: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'DynamoDB'],
     architcetures: ['Modular Monolithic', 'Microservices', 'Event Driven', 'Serverless'],
-    techniques: ['Testing', 'CI/CD', 'Web Security', 'Version Control', 'Mobile Apps (Cross-Platform)', 'PWA']
+    techniques: ['Testing', 'CI/CD', 'Web Security', 'Version Control', 'Mobile Apps (Cross-Platform)', 'PWA', 'Design Systems']
   }
 }
 
