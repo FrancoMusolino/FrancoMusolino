@@ -10,7 +10,7 @@ const Franco = {
     languages: ['JavaScript', 'TypeScript', 'Rust'],
     frontend: ['React', 'NextJS', 'Remix', 'Astro', 'React Native'],
     backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs'],
-    databases: ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB', 'DynamoDB'],
+    databases: ['PostgreSQL', 'SQLite', 'MongoDB', 'DynamoDB'],
     architcetures: ['Modular Monolithic', 'Microservices', 'Event Driven', 'Serverless'],
     techniques: ['Testing', 'CI/CD', 'Web Security', 'Version Control', 'Mobile Apps (Cross-Platform)', 'PWA', 'Design Systems']
   }
