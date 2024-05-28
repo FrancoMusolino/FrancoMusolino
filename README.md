@@ -7,7 +7,7 @@ const Franco = {
   nationality: 'Argentino',
   hobbies: ['Fútbol', 'Programar', 'Películas'],
   code: {
-    languages: ['JavaScript', 'TypeScript', 'Rust'],
+    languages: ['JavaScript', 'TypeScript', 'Rust', 'SQL'],
     frontend: ['React', 'NextJS', 'Remix', 'Astro', 'React Native'],
     backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs'],
     databases: ['PostgreSQL', 'SQLite', 'MongoDB', 'DynamoDB'],
