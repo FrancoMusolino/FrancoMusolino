@@ -6,7 +6,7 @@
 const Franco = {
     languages: ['JavaScript', 'TypeScript', 'Rust', 'SQL'],
     frontend: ['React', 'NextJS', 'Remix', 'Astro', 'React Native'],
-    backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs'],
+    backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs', 'Docker'],
     databases: ['PostgreSQL', 'SQLite', 'MongoDB', 'Redis'],
     architcetures: ['Modular Monolithic', 'Microservices', 'Event Driven', 'Serverless'],
     cloud: ['AWS'],
