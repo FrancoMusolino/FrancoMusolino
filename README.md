@@ -20,7 +20,6 @@ const Franco = {
 
 - 🔭 Actualmente trabajando en NUCBA
 - 🌱 Aprendiendo AWS
-- 👯 Buscando nuevos desafíos
 - 💬 Preguntame sobre código, películas o fútbol
 - 📫 Puedes encontrar mis datos de contacto y CV en mi <a href="https://portfolio-francomusolinos-projects.vercel.app/" target="_BLANK">portfolio</a>
 
@@ -35,7 +34,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 24/06/2024</h5>
+<h5 align="left">Última modificación: 09/09/2024</h5>
 
 
 
