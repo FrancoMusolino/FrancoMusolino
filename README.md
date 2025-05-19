@@ -4,7 +4,7 @@
 
 ``` javascript
 const Franco = {
-    languages: ['JavaScript', 'TypeScript', 'Rust', 'SQL'],
+    languages: ['JavaScript', 'TypeScript', 'Golang', 'SQL'],
     frontend: ['React', 'NextJS', 'Remix', 'Astro', 'React Native'],
     backend: ['NodeJS', 'ExpressJS', 'NestJS', 'REST APIs', 'GraphQL APIs', 'Docker'],
     databases: ['PostgreSQL', 'SQLite', 'MongoDB', 'Redis'],
@@ -19,7 +19,7 @@ const Franco = {
 <hr>
 
 - 🔭 Actualmente trabajando en NUCBA
-- 🌱 Aprendiendo AWS
+- 🌱 Aprendiendo AWS y Golang
 - 💬 Preguntame sobre código, películas o fútbol
 - 📫 Puedes encontrar mis datos de contacto y CV en mi <a href="https://portfolio-francomusolinos-projects.vercel.app/" target="_BLANK">portfolio</a>
 
@@ -34,7 +34,7 @@ const Franco = {
 <hr>
 
 <h5 align="left">From: <a href="https://github.com/FrancoMusolino">FrancoMusolino</a></h5>
-<h5 align="left">Última modificación: 09/09/2024</h5>
+<h5 align="left">Última modificación: 19/05/2025</h5>
 
 
 
